@@ -13,8 +13,8 @@
     "inquirer-fuzzy-path": "^2.3.0"
   },
   "dependencies": {
-    "glob": "^8.0.3",
-    "jsonfile": "^6.1.0",
+    "glob": "^8.1.0",
+    "jsonfile": "^6.2.1",
     "solc": "^0.8.20"
   }
 }
